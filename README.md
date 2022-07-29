@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @berkeozgen, I am a 3rd year Economics Student at TOBB ETU.
+- 👀 I’m interested in Economics, Entrepreneurship, Dubbing/Voiceover and Software Development.
+- 🌱 I’m currently learning how to use Python and R professionally.
+- 🐱‍🏍 My team has a new bussinnes model called "all." and we are working hard to make it happen.
+- 📫 How to reach me: LinkedIn: https://linkedin.com/in/berkeozgen
